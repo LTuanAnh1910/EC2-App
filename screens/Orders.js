@@ -52,10 +52,10 @@ const Orders = () => {
     };
   }, [userId]);
 
-  console.log(orderData);
+  console.log("orderData", orderData);
 
   return (
-    <View style={{ marginTop: 10 }}>
+    <View style={{ marginTop: 10, height: "100%" }}>
       <View
         style={{
           marginHorizontal: 12,

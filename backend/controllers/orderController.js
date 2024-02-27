@@ -8,14 +8,12 @@ module.exports = {
     const userId = req.params.id;
 
     try {
-      const userOrders = await Order.find({ userId })
-        .populate({
-          path: "products",
-          select: "-description -product_location ",
-        })
-        .exec();
-
-      res.status(200).json(userOrders);
+      const order = await Order.find({ userId }).populate(
+        "products.cartItem",
+        "_id title supplier price imageUrl"
+      );
+      // console.log(cart);
+      res.status(200).json(order);
     } catch (error) {
       res.status(500).json(error);
     }
@@ -41,7 +39,7 @@ module.exports = {
       const newOrder = new Order({
         userId,
         products: cart.products.map((item) => ({
-          cartItem: item.cartItem._id,
+          cartItem: item.cartItem,
           quantity: item.quantity,
         })),
         total,

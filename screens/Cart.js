@@ -13,8 +13,8 @@ const Cart = () => {
   const [userId, setUserId] = useState(null);
   const [data, setData] = useState([]);
   const route = useRoute();
-  // const userLogin = route.params;
-  console.log(userLogin);
+  const userLogin = route.params;
+  console.log("data", data);
   useEffect(() => {
     getUserId();
   }, []);

@@ -53,29 +53,6 @@ const ProductionDetail = () => {
       console.log(error);
     }
   };
-  // useEffect(() => {
-  //   checkExistingUser();
-  // }, []);
-  // const checkExistingUser = async () => {
-  //   const id = await AsyncStorage.getItem("id");
-  //   const userId = JSON.parse(id);
-  //   const userIds = `user${userId}`;
-  //   setUserIds(userId);
-  //   console.log(userIds);
-
-  //   try {
-  //     const currentUser = await AsyncStorage.getItem(userIds);
-
-  //     if (currentUser !== null) {
-  //       const parseData = JSON.parse(currentUser);
-  //       setUserData(parseData);
-  //       // setUserLogin(true);
-  //       console.log(userData);
-  //     }
-  //   } catch (error) {
-  //     console.log(error);
-  //   }
-  // };
 
   // console.log("userIds:", userIds);
   // console.log("item._id:", item._id);
