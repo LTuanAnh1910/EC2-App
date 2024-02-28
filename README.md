@@ -1,0 +1,11 @@
+![simulator_screenshot_5A626899-9DD1-450B-8D05-4CC6F3F681D0](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/d4abeee5-827e-439e-a6d9-407c8a28dc6f)
+![simulator_screenshot_10A8B2A0-C0DF-4319-BCB9-8E37E2E48536](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/863f534d-17b2-4436-bcc9-d628769b0a4b)
+![simulator_screenshot_BC200FFB-5570-4B7A-B9D0-FBDA9A6806F3](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/bdf8ad03-5e08-465b-9669-b125995256a1)
+![simulator_screenshot_D2725357-8274-4E00-975D-3D90802C9D1A](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/35657d69-f748-41b7-ba8f-2dbffb71810b)
+![simulator_screenshot_0341814D-B221-40C5-9E44-40AF7F7FFBFF](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/ab540154-a82a-400d-9096-b4f10450e43d)
+![simulator_screenshot_2B8D4921-3D97-4868-92BC-230F84C85EC4](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/ec8a8838-eee8-46a6-8106-52aa5e6e949c)
+![simulator_screenshot_3264C800-C44D-402A-A7E8-79308C379667](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/976529fa-8406-4842-a92c-2b85ad02c817)
+![simulator_screenshot_AC6D971C-FC88-4928-A309-0A26AA2F6CC5](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/19793adb-7638-4e60-904a-3de04da25cc0)
+![simulator_screenshot_9AF689D7-0C83-4A4C-8453-681E08D1913C](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/0abb1e05-9438-4780-abbd-834ac2a58010)
+![simulator_screenshot_B2DAB4A8-3921-413E-9783-14CC906BF3AE](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/45c507c1-b5d7-450b-b050-6dff1219649e)![simulator_screenshot_63737B82-BD90-49A5-B012-0A6BB7A19319](https://github.com/LTuanAnh1910/EC2-App/assets/134671356/d77fa84e-23e6-40fa-af30-63213e9fee8c)
+
